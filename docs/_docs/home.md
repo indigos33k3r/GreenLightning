@@ -17,8 +17,8 @@ Green Lightning supports fine-grained telemetry information published via a buil
 ## Performance
 Benchmarks for Green Lightning are provided by the [GreenLoader project. Below is a graph that compares the latency by percentile of Green Lightning and several other web services frameworks with request logging and telemetry enabled.
 
-![Green Lightning Benchmark](benchmark.png)
+![Green Lightning Benchmark](/GreenLightning/assets/images/benchmark.png)
 
 ## Getting Started
 
-(Complete Start Guide)[/docs/complete-start-guide/]
+[Complete Start Guide](/GreenLightning/docs/complete-start-guide/)
