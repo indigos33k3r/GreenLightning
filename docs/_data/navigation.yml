@@ -1,0 +1,17 @@
+# main links
+main:
+  - title: "Documentation"
+    url: /docs/home/
+
+# documentation links
+docs:
+  - title: Overview
+    children:
+      - title: "Home"
+        url: /docs/home/
+  - title: Getting Started
+    children:
+      - title: "Quick Start Guide"
+        url: /docs/quick-start-guide/
+      - title: "Complete Start Guide"
+        url: /docs/complete-start-guide/
