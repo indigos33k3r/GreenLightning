@@ -1,3 +1,7 @@
+NOTE: After clone of this project the following 2 git commands must be run in order to also clone the source
+* git submodule init
+* git submodule update
+
 # Green Lightning
 Green Lightning is an embeddable high-performance microservice framework with built-in HTTP and MQTT support.
 
