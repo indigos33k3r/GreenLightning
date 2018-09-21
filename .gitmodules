@@ -1,0 +1,3 @@
+[submodule "GreenLightning"]
+	path = GreenLightning
+	url = https://github.com/oci-pronghorn/GreenLightning.git
